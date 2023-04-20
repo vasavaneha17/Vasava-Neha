@@ -1,0 +1,7 @@
+#include<iostream>
+
+int main()
+{
+   STD::cout<<"Hello Would:";
+   return 0;
+}
